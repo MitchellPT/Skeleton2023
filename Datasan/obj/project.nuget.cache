@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SmmF3EcXjwpdpdVCKtM4Hk6VSvW9b8NNGFUiBsTrQF4al/6Yy/by26wAh5wKe74DOdi4HWjBvUJkyUqtgzr7Tg==",
+  "success": true,
+  "projectFilePath": "/var/VSCODE/Skeleton2023/Datasan/Dastan Skeleton 2023.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.32/microsoft.netcore.app.host.linux-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
