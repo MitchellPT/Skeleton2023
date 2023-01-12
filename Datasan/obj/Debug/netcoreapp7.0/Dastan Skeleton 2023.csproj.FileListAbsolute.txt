@@ -1,0 +1,15 @@
+/var/VSCODE/Skeleton2023/Datasan/bin/Debug/netcoreapp7.0/Dastan Skeleton 2023
+/var/VSCODE/Skeleton2023/Datasan/bin/Debug/netcoreapp7.0/Dastan Skeleton 2023.deps.json
+/var/VSCODE/Skeleton2023/Datasan/bin/Debug/netcoreapp7.0/Dastan Skeleton 2023.runtimeconfig.json
+/var/VSCODE/Skeleton2023/Datasan/bin/Debug/netcoreapp7.0/Dastan Skeleton 2023.dll
+/var/VSCODE/Skeleton2023/Datasan/bin/Debug/netcoreapp7.0/Dastan Skeleton 2023.pdb
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp7.0/Dastan Skeleton 2023.csproj.AssemblyReference.cache
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp7.0/Dastan Skeleton 2023.GeneratedMSBuildEditorConfig.editorconfig
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp7.0/Dastan Skeleton 2023.AssemblyInfoInputs.cache
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp7.0/Dastan Skeleton 2023.AssemblyInfo.cs
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp7.0/Dastan Skeleton 2023.csproj.CoreCompileInputs.cache
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp7.0/Dastan Skeleton 2023.dll
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp7.0/refint/Dastan Skeleton 2023.dll
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp7.0/Dastan Skeleton 2023.pdb
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp7.0/Dastan Skeleton 2023.genruntimeconfig.cache
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp7.0/ref/Dastan Skeleton 2023.dll

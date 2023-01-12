@@ -1,14 +1,28 @@
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\bin\Debug\netcoreapp3.1\Dastan Skeleton 2023.exe
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\bin\Debug\netcoreapp3.1\Dastan Skeleton 2023.deps.json
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\bin\Debug\netcoreapp3.1\Dastan Skeleton 2023.runtimeconfig.json
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\bin\Debug\netcoreapp3.1\Dastan Skeleton 2023.runtimeconfig.dev.json
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\bin\Debug\netcoreapp3.1\Dastan Skeleton 2023.dll
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\bin\Debug\netcoreapp3.1\Dastan Skeleton 2023.pdb
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\obj\Debug\netcoreapp3.1\Dastan Skeleton 2023.csproj.AssemblyReference.cache
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\obj\Debug\netcoreapp3.1\Dastan Skeleton 2023.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\obj\Debug\netcoreapp3.1\Dastan Skeleton 2023.AssemblyInfoInputs.cache
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\obj\Debug\netcoreapp3.1\Dastan Skeleton 2023.AssemblyInfo.cs
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\obj\Debug\netcoreapp3.1\Dastan Skeleton 2023.csproj.CoreCompileInputs.cache
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\obj\Debug\netcoreapp3.1\Dastan Skeleton 2023.dll
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\obj\Debug\netcoreapp3.1\Dastan Skeleton 2023.pdb
-C:\Users\jayeshp\OneDrive - Xaverian College\1. AQA A Level CS\SKELETON 2023\Dastan Skeleton 2023\obj\Debug\netcoreapp3.1\Dastan Skeleton 2023.genruntimeconfig.cache
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023.exe
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023.deps.json
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023.runtimeconfig.json
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023.runtimeconfig.dev.json
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023.dll
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023.pdb
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.csproj.AssemblyReference.cache
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.AssemblyInfoInputs.cache
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.AssemblyInfo.cs
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.csproj.CoreCompileInputs.cache
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.dll
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.pdb
+C:/Users/jayeshp/OneDrive - Xaverian College/1. AQA A Level CS/SKELETON 2023/Dastan Skeleton 2023/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.genruntimeconfig.cache
+/var/VSCODE/Skeleton2023/Datasan/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023
+/var/VSCODE/Skeleton2023/Datasan/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023.deps.json
+/var/VSCODE/Skeleton2023/Datasan/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023.runtimeconfig.json
+/var/VSCODE/Skeleton2023/Datasan/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023.runtimeconfig.dev.json
+/var/VSCODE/Skeleton2023/Datasan/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023.dll
+/var/VSCODE/Skeleton2023/Datasan/bin/Debug/netcoreapp3.1/Dastan Skeleton 2023.pdb
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.csproj.AssemblyReference.cache
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.GeneratedMSBuildEditorConfig.editorconfig
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.AssemblyInfoInputs.cache
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.AssemblyInfo.cs
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.csproj.CoreCompileInputs.cache
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.dll
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.pdb
+/var/VSCODE/Skeleton2023/Datasan/obj/Debug/netcoreapp3.1/Dastan Skeleton 2023.genruntimeconfig.cache
